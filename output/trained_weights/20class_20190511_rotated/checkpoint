@@ -1,0 +1,6 @@
+model_checkpoint_path: "/home/asilla/hanh/R2CNN/output/trained_weights/cs_20190520/voc_191401model.ckpt"
+all_model_checkpoint_paths: "/media/Hard_driver/R2CNN/output/trained_weights/20class_20190511_rotated/voc_190201model.ckpt"
+all_model_checkpoint_paths: "/media/Hard_driver/R2CNN/output/trained_weights/20class_20190511_rotated/voc_190501model.ckpt"
+all_model_checkpoint_paths: "/media/Hard_driver/R2CNN/output/trained_weights/20class_20190511_rotated/voc_190801model.ckpt"
+all_model_checkpoint_paths: "/media/Hard_driver/R2CNN/output/trained_weights/20class_20190511_rotated/voc_191101model.ckpt"
+all_model_checkpoint_paths: "/media/Hard_driver/R2CNN/output/trained_weights/20class_20190511_rotated/voc_191401model.ckpt"
