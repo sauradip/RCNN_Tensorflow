@@ -47,8 +47,8 @@ python setup.py build_ext --inplace
 ## Inference
 ```  
 python inference_origin.py --data_dir < data path for test>
-													 --type_test < name output folder>
-													 --gpu '0'
+							--type_test < name output folder>
+							--gpu '0'
 ```
 
 ## Train
